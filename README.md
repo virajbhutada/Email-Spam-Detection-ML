@@ -1,4 +1,4 @@
-
+![Screenshot 2024-10-29 121257](https://github.com/user-attachments/assets/fb7e376e-0072-4dba-9425-147272f2bcc1)
 ## Problem Statement
 
 Email spam, or junk mail, poses a significant challenge to users and organizations alike, as it clutters inboxes, wastes time, and can contain malicious content. The primary objective of this project is to develop a sophisticated email spam detection system utilizing advanced machine-learning techniques. By analyzing the content and characteristics of emails, the system aims to accurately classify incoming emails as either spam or legitimate (ham).
