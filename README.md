@@ -1,10 +1,7 @@
-# Email Spam Detection
 
-
----
 ## Problem Statement
 
-Email spam, or junk mail, poses a significant challenge to users and organizations alike, as it clutters inboxes, wastes time, and can contain malicious content. The primary objective of this project is to develop a sophisticated email spam detection system utilizing advanced machine learning techniques. By analyzing the content and characteristics of emails, the system aims to accurately classify incoming emails as either spam or legitimate (ham).
+Email spam, or junk mail, poses a significant challenge to users and organizations alike, as it clutters inboxes, wastes time, and can contain malicious content. The primary objective of this project is to develop a sophisticated email spam detection system utilizing advanced machine-learning techniques. By analyzing the content and characteristics of emails, the system aims to accurately classify incoming emails as either spam or legitimate (ham).
 
 ---
 ## Overview
